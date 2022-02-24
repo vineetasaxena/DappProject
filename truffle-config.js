@@ -26,7 +26,7 @@
  const infuraKey = "c07ba10a55f5447c9de9e334a74813b0";
  //
  // const fs = require('fs');
- const mnemonic = "vvvv";
+ const mnemonic = "cart remain young vehicle twelve salon match walnut huge perfect another virus";
 //
 // const fs = require('fs');
 // const mnemonic = fs.readFileSync(".secret").toString().trim();
